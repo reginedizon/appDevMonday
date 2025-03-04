@@ -14,8 +14,7 @@ public class week5 {
         Lluz.display();
 
 
-
-      
+        dizon.display();      
         Lucero.display();
 
         Jalique.display();
